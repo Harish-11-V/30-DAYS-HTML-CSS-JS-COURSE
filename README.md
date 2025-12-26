@@ -85,6 +85,11 @@ JavaScript is a **top in-demand programming language** powering web interactivit
 
 ---
 
+## 🧑‍💻 Course Link
+https://www.udemy.com/course/30-html-css-javascript-projects-a-beginners-guide-to-js/learn/lecture/42262154?start=0#overview
+
+---
+
 ## ❤️ Contribute
 Feel free to open issues, share feedback, or submit pull requests. Collaboration and learning go hand-in-hand!
 
