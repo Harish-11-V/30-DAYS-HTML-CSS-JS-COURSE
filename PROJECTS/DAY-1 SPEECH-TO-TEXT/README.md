@@ -1,3 +1,9 @@
-## Project	Description
+## ✨ Project Showcase
 
-1	🎤 Speech-to-Text	Convert speech to text using the device's microphone
+<div align="center">
+
+| 🗓️ Day | 💡 Project | 📖 Description |
+|:---:|:---|:---|
+| `01` | 🎤 **Speech-to-Text** | Convert real-time speech into text using the device microphone with interactive voice recognition. |
+
+</div>
