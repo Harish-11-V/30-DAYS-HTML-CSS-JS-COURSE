@@ -1,6 +1,6 @@
 # 30-DAYS-HTML-CSS-JS-COURSE
 
-# 🌟 30 Projects in 30 Days
+# 🌟 30 Projects in 30 Days 
 A beginner-to-intermediate front-end coding adventure using **HTML5**, **CSS3**, and **JavaScript**!
 
 ---
