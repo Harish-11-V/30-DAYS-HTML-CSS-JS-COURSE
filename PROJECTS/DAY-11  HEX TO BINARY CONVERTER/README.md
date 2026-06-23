@@ -7,3 +7,4 @@
 | `14` | 🔡 **Hex to Binary Converter** | Convert hexadecimal values into binary format instantly with accurate and user-friendly conversion. |
 
 </div>
+
