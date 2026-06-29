@@ -5,7 +5,7 @@ A beginner-to-intermediate front-end coding adventure using **HTML5**, **CSS3**,
 
 ---
 
-## 🚀 Course Overview
+## ✨ Course Overview
 Welcome! This course is crafted for aspiring developers looking to **build a solid portfolio** through project-based learning. You'll explore **modern web development** tools and techniques with hands-on, daily challenges to master core concepts and unlock creative potential[web:1].
 
 ---
